@@ -1,4 +1,4 @@
-GGML implementations of popular computer vision architectures. Currently named yolo.cpp. Might rename to vision.cpp.
+GGML implementations of popular computer vision architectures. 
 
 
 - [x] yolov3_tiny (from the ggml examples)
